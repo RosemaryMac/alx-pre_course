@@ -65,7 +65,7 @@ Using the graphic interface on the [github website](https://github.com/login), c
 - Public repo
 - No `README`, `.gitignore`, or license
 
-####Step 4 - Open the sandbox
+#### Step 4 - Open the sandbox
 - On the intranet, just under the task, click on the button `>_Get a sandbox` and `run` to start the machine.
 
 - Once the container is started, click on `>_Webterm` to open a shell where you can start work from.
@@ -83,4 +83,40 @@ warning: You appear to have cloned an empty repository.
 
 **Replace {YOUR_USERNAME} with your username from step 0 and 1**
 
-#### Step 6 - Create the README.md and push the modifications       
+#### Step 6 - Create the README.md and push the modifications
+- Navigate to this new directory.[Tips](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
+~~~~
+root@896cf839cf9a:/# cd alx-pre_course/
+root@896cf839cf9a:/alx-pre_course#
+~~~~
+- Create the file README.md with the content My first readme.[Tips](https://forum.howtoforge.com/threads/echo-into-a-file.115/)
+~~~~
+root@896cf839cf9a:/alx-pre_course# echo 'My first readme' > README.md                                                                 
+root@896cf839cf9a:/alx-pre_course# cat README.md                                                                                      
+My first readme
+~~~~
+- Update your git identity
+~~~~
+root@896cf839cf9a:/alx-pre_course# git config --global user.email "you@example.com"
+root@896cf839cf9a:/alx-pre_course# git config --global user.name "Your Name"
+~~~~
+- Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
+~~~~
+root@896cf839cf9a:/alx-pre_course# git add .
+root@896cf839cf9a:/alx-pre_course# git commit -m 'My first commit'
+[master (root-commit) 98eef93] My first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+root@896cf839cf9a:/alx-pre_course# git push                                                                                           
+Enumerating objects: 3, done.                                                                                                         
+Counting objects: 100% (3/3), done.                                                                                                   
+Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.                                                                          
+Total 3 (delta 0), reused 0 (delta 0)                                                                                                 
+To https://github.com/{YOUR_USERNAME}/alx-pre_course.git                                                                                       
+ * [new branch]    master -> master   
+~~~~        
+Good job!
+
+You pushed your first file in your **first repository** of the **first task** of your **first ALX School project.**
+
+You can now check your repository on GitHub to see if everything is good.
