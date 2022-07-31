@@ -1,5 +1,5 @@
 # 0x01. Git :file_folder:
-## Resources
+## Resources:open_book:
 - [*Resources to learn Git*](https://docs.github.com/en/get-started/quickstart/set-up-git)
 - [*About READMEs*](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [*How to write a Git commit message*](https://cbea.ms/git-commit)
@@ -9,7 +9,7 @@
 - [*Learning branching*](https://learngitbranching.js.org)
 - [*Effective pull requests and other good practices for teams using GitHub*](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 
-# Learning Objectives
+# Learning Objectives:page_with_curl:
 At the end of this project, you are expected to be able to [*explain to anyone*](https://fs.blog/feynman-technique/),**without the help of Google:**
 
 - What is source code management
@@ -44,3 +44,5 @@ $ git add test
 $ git commit -m "Initial commit"
 $ git push origin main
 ~~~~
+## Tasks:scroll:
+## 0. Create and setup your Git and GitHub account
