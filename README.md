@@ -46,18 +46,18 @@ $ git push origin main
 ~~~~
 ## Tasks:scroll:
 ## 0. Create and setup your Git and GitHub account
-#### Step 0 - Create an account on GitHub [if you do not have one already]
+**Step 0 - Create an account on GitHub [if you do not have one already]**
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/login)
 
-#### Step 1 - Create a Personal Access Token on Github
+**Step 1 - Create a Personal Access Token on Github**
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
 You can follow [this tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) to create a token.
 
-#### Step 2 - Update your profile on the Intranet
+**Step 2 - Update your profile on the Intranet**
 Update your Intranet profile by adding your Github username
 
-#### Step 3 - Create your first repository
+**Step 3 - Create your first repository**
 Using the graphic interface on the [github website](https://github.com/login), create your first repository.
 
 - Name: `alx-pre_course`
@@ -65,12 +65,12 @@ Using the graphic interface on the [github website](https://github.com/login), c
 - Public repo
 - No `README`, `.gitignore`, or license
 
-#### Step 4 - Open the sandbox
+**Step 4 - Open the sandbox**
 - On the intranet, just under the task, click on the button `>_Get a sandbox` and `run` to start the machine.
 
 - Once the container is started, click on `>_Webterm` to open a shell where you can start work from.
 
-#### Step 5 - Clone your repository
+**Step 5 - Clone your repository**
 On the webterm of the sandbox, do the following:
 
 - Clone your repository
@@ -83,7 +83,7 @@ warning: You appear to have cloned an empty repository.
 
 **Replace {YOUR_USERNAME} with your username from step 0 and 1**
 
-#### Step 6 - Create the README.md and push the modifications
+ **Step 6 - Create the README.md and push the modifications**
 - Navigate to this new directory.[Tips](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
 ~~~~
 root@896cf839cf9a:/# cd alx-pre_course/
@@ -120,3 +120,10 @@ Good job!
 You pushed your first file in your **first repository** of the **first task** of your **first ALX School project.**
 
 You can now check your repository on GitHub to see if everything is good.
+
+##1. Repo-session
+Create a new directory called `0x01-git` in your `alx-pre_course` repo.
+
+Make sure you include a non empty`README.md`in your directory:
+- at the root of your repository `alx-pre_course`
+- AND in the directory `0x01-git`
