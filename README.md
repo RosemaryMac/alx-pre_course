@@ -46,7 +46,7 @@ $ git push origin main
 ~~~~
 # Tasks:scroll:
 ## 0. Create and setup your Git and GitHub account
-####Step 0 - Create an account on GitHub [if you do not have one already]
+### Step 0 - Create an account on GitHub [if you do not have one already]
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/login)
 
 <h4>Step 1 - Create a Personal Access Token on Github</h4>
@@ -57,10 +57,10 @@ You can follow [this tutorial](https://docs.github.com/en/authentication/keeping
 <h4>Step 2 - Update your profile on the Intranet</h4>
 Update your Intranet profile by adding your Github username
 
-####Step 3 - Create your first repository
+### Step 3 - Create your first repository
 Using the graphic interface on the [github website](https://github.com/login), create your first repository.
 
-- Name: `{color: tomato;}alx-pre_course`
+- Name: `alx-pre_course`
 - Description:`I'm now a ALX Student,this is my first repository as a full-stack engineer`
 - Public repo
 - No `README`, `.gitignore`, or license
