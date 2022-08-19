@@ -60,13 +60,13 @@ Update your Intranet profile by adding your Github username
 <h4>Step 3 - Create your first repository</h4>
 Using the graphic interface on the [github website](https://github.com/login), create your first repository.
 
-- Name: `<style="color:Tomato;">alx-pre_course`
+- Name: `<p style="color:Tomato;">alx-pre_course</p>`
 - Description:`I'm now a ALX Student,this is my first repository as a full-stack engineer`
 - Public repo
 - No `README`, `.gitignore`, or license
 
 <h4>Step 4 - Open the sandbox</h4>
-- On the intranet, just under the task, click on the button `>_Get a sandbox` and `run` to start the machine.
+* On the intranet, just under the task, click on the button `>_Get a sandbox` and `run` to start the machine.
 
 - Once the container is started, click on `>_Webterm` to open a shell where you can start work from.
 
