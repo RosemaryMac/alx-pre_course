@@ -46,7 +46,7 @@ $ git push origin main
 ~~~~
 # Tasks:scroll:
 ## 0. Create and setup your Git and GitHub account
-<h4>Step 0 - Create an account on GitHiub [if you do not have one already]</h4>
+<<Step 0 - Create an account on GitHiub [if you do not have one already]</h4>
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/login)
 
 <h4>Step 1 - Create a Personal Access Token on Github</h4>
@@ -66,7 +66,7 @@ Using the graphic interface on the [github website](https://github.com/login), c
 - No `README`, `.gitignore`, or license
 
 <h4>Step 4 - Open the sandbox</h4>
-* On the intranet, just under the task, click on the button `>_Get a sandbox` and `run` to start the machine.
+> * On the intranet, just under the task, click on the button `>_Get a sandbox` and `run` to start the machine.
 
 - Once the container is started, click on `>_Webterm` to open a shell where you can start work from.
 
