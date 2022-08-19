@@ -46,18 +46,18 @@ $ git push origin main
 ~~~~
 # Tasks:scroll:
 ## 0. Create and setup your Git and GitHub account
-**Step 0 - Create an account on GitHub [if you do not have one already]**
+<h3>Step 0 - Create an account on GitHub [if you do not have one already]</h3>
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/login)
 
-**Step 1 - Create a Personal Access Token on Github**
+<h3>Step 1 - Create a Personal Access Token on Github</h3>
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
 You can follow [this tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) to create a token.
 
-**Step 2 - Update your profile on the Intranet**
+<h3>Step 2 - Update your profile on the Intranet</h3>
 Update your Intranet profile by adding your Github username
 
-**Step 3 - Create your first repository**
+<h3>Step 3 - Create your first repository</h3>
 Using the graphic interface on the [github website](https://github.com/login), create your first repository.
 
 - Name: `alx-pre_course`
@@ -65,12 +65,12 @@ Using the graphic interface on the [github website](https://github.com/login), c
 - Public repo
 - No `README`, `.gitignore`, or license
 
-**Step 4 - Open the sandbox**
+<h3>Step 4 - Open the sandbox</h3>
 - On the intranet, just under the task, click on the button `>_Get a sandbox` and `run` to start the machine.
 
 - Once the container is started, click on `>_Webterm` to open a shell where you can start work from.
 
-**Step 5 - Clone your repository**
+<h4>Step 5 - Clone your repository</h4>
 On the webterm of the sandbox, do the following:
 
 - Clone your repository
