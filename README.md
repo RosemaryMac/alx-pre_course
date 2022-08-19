@@ -46,18 +46,18 @@ $ git push origin main
 ~~~~
 # Tasks:scroll:
 ## 0. Create and setup your Git and GitHub account
-<h3>Step 0 - Create an account on GitHub [if you do not have one already]</h3>
-You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/login)
+<h4>Step 0 - Create an account on GitHiub [if you do not have one already]</h4>
+You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [*here*](https://github.com/login)
 
-<h3>Step 1 - Create a Personal Access Token on Github</h3>
+<h4>Step 1 - Create a Personal Access Token on Github</h4>
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
 You can follow [this tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) to create a token.
 
-<h3>Step 2 - Update your profile on the Intranet</h3>
+<h4>Step 2 - Update your profile on the Intranet</h4>
 Update your Intranet profile by adding your Github username
 
-<h3>Step 3 - Create your first repository</h3>
+<h4>Step 3 - Create your first repository</h4>
 Using the graphic interface on the [github website](https://github.com/login), create your first repository.
 
 - Name: `alx-pre_course`
@@ -65,7 +65,7 @@ Using the graphic interface on the [github website](https://github.com/login), c
 - Public repo
 - No `README`, `.gitignore`, or license
 
-<h3>Step 4 - Open the sandbox</h3>
+<h4>Step 4 - Open the sandbox</h4>
 - On the intranet, just under the task, click on the button `>_Get a sandbox` and `run` to start the machine.
 
 - Once the container is started, click on `>_Webterm` to open a shell where you can start work from.
@@ -83,7 +83,7 @@ warning: You appear to have cloned an empty repository.
 
 **Replace {YOUR_USERNAME} with your username from step 0 and 1**
 
-**Step 6 - Create the README.md and push the modifications**
+<h4>Step 6 - Create the README.md and push the modifications</h4>
 - Navigate to this new directory.[Tips](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
 ~~~~
 root@896cf839cf9a:/# cd alx-pre_course/
