@@ -47,7 +47,7 @@ $ git push origin main
 # Tasks:scroll:
 ## 0. Create and setup your Git and GitHub account
 <h4>Step 0 - Create an account on GitHiub [if you do not have one already]</h4>
-You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [*here*](https://github.com/login)
+You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/login)
 
 <h4>Step 1 - Create a Personal Access Token on Github</h4>
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
