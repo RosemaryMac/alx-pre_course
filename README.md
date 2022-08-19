@@ -44,9 +44,9 @@ $ git add test
 $ git commit -m "Initial commit"
 $ git push origin main
 ~~~~
-## Tasks:scroll:
+# Tasks:scroll:
 ## 0. Create and setup your Git and GitHub account
-#### Step 0 - Create an account on GitHub [if you do not have one already]
+**Step 0 - Create an account on GitHub [if you do not have one already]**
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/login)
 
 **Step 1 - Create a Personal Access Token on Github**
