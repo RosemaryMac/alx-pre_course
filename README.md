@@ -60,7 +60,7 @@ Update your Intranet profile by adding your Github username
 <h4>Step 3 - Create your first repository</h4>
 Using the graphic interface on the [github website](https://github.com/login), create your first repository.
 
-- Name: `alx-pre_course`
+- Name: `<style="color:Tomato;">alx-pre_course`
 - Description:`I'm now a ALX Student,this is my first repository as a full-stack engineer`
 - Public repo
 - No `README`, `.gitignore`, or license
@@ -84,7 +84,8 @@ warning: You appear to have cloned an empty repository.
 **Replace {YOUR_USERNAME} with your username from step 0 and 1**
 
 <h4>Step 6 - Create the README.md and push the modifications</h4>
-- Navigate to this new directory.[Tips](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
+
+* Navigate to this new directory.[Tips](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
 ~~~~
 root@896cf839cf9a:/# cd alx-pre_course/
 root@896cf839cf9a:/alx-pre_course#
